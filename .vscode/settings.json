@@ -1,0 +1,5 @@
+{
+    "prettier.bracketSpacing": true,
+    "prettier.eslintIntegration": true,
+    "prettier.jsxBracketSameLine": true
+}
