@@ -8,8 +8,8 @@ import { allTodos } from '../frontend/reducers/selectors'
 document.addEventListener("DOMContentLoaded",()=>{
     const root = document.getElementById('root');
     const store = configureStore();
-    window.store = store;
-    window.allTodos = allTodos;
+    // window.store = store;
+    // window.allTodos = allTodos;
 
     // window.receiveTodo = receiveTodo;
     // window.receiveTodos = receiveTodos;
